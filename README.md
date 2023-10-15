@@ -42,8 +42,6 @@
 
     Please ensure you have any emulator running before running the above command.
 
- ## APK Download
-  You can simply try the app by downloading from the below link.
 
 
 

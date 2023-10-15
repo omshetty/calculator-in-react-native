@@ -2,8 +2,9 @@
  This is a basic calculator app created in React Native. It can perform basic operations like addition, subtraction, multiplication and division of two numbers upto 10 digits. It can also handle decimal point numbers. It has a minimalist beautiful UI with the dark/light mode capablities.
 
  ## Screenshots
- ![image](https://github.com/omshetty/calculator-in-react-native/assets/85758691/15f160ae-04a9-45a9-b0e2-724e6146ab35)
- ![image](https://github.com/omshetty/calculator-in-react-native/assets/85758691/367f38bd-bec8-4f3d-bc30-d83f5efeb37f)
+![1](https://github.com/omshetty/calculator-in-react-native/assets/85758691/c37ac47e-192a-49a6-af7e-ceaecc34398c)
+![2](https://github.com/omshetty/calculator-in-react-native/assets/85758691/2961a52f-59c6-42c6-8f8a-456c8aa5b9fd)
+
  ## Tech/Frameworks/Tools Used
  * React Native
  * React
